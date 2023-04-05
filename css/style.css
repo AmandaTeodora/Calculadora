@@ -1,0 +1,24 @@
+
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'spartan', sans-serif;
+}
+body{
+    width: 100%;
+    max-width: 1440px;
+    background-color: hsl(222, 26%, 31%);
+    height: 100vh
+    display: flex;
+    justify-content: center;
+    algn-items: center;
+    flex-direction: column;
+}
+.num{
+    display: flex;
+    justify-content: flex-end;
+}
+.num p{
+    margin: 0 5px;
+}
