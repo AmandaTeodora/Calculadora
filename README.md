@@ -1,3 +1,3 @@
 Projeto de calculadora básica
 
-O projeto tem o html, css e jascript, com funcionalidades matemáticas básicas.
+O projeto tem html, css e javascript, com funcionalidades matemáticas básicas.
